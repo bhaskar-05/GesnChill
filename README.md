@@ -10,7 +10,7 @@ This project allows you to control your game character (or simulate key presses)
 
 👍 Thumb up: Turn left (A)
 
-✌️ Index + Middle fingers up: Turn right (D)
+   Pinky up: Turn right (D)
 
 👊 Fist (all fingers down): Brake (S)
 
@@ -48,12 +48,6 @@ python main.py
 The webcam feed will open.
 
 Show the desired gesture.
-
-The gestures are as follow:
-  1. Only index - forward
-  2. only thumb - left
-  3. only pinky - right
-  4. fist - break
 
 The corresponding key (W, A, S, D) will be pressed and held as long as you keep the gesture.
 
